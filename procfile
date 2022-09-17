@@ -1,1 +1,2 @@
 web: sh setup.sh && streamlit run hhh.py
+release: ./release-tasks.sh
